@@ -1,0 +1,22 @@
+{
+  "id": "conv-1778722522911-j73ygovd6",
+  "providerId": "claude",
+  "title": "hello",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1778722522917,
+  "updatedAt": 1778723487933,
+  "lastResponseAt": 1778723025066,
+  "sessionId": "5f65ba9c-c244-4a55-93fc-579c18cfd325",
+  "providerState": {
+    "providerSessionId": "5f65ba9c-c244-4a55-93fc-579c18cfd325"
+  },
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 0,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 0,
+    "percentage": 0
+  }
+}
