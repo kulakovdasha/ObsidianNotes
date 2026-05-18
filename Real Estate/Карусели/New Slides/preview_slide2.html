@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Slide 2 — Down Payment</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;900&display=swap');
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  html, body {
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    background: #222;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Inter', sans-serif;
+  }
+
+  .wrapper {
+    transform-origin: center center;
+  }
+
+  .slide {
+    width: 1080px;
+    height: 1350px;
+    position: relative;
+    background: #000000;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    padding: 80px 72px 100px 72px;
+  }
+
+  .slide-counter {
+    position: absolute;
+    top: 52px;
+    right: 72px;
+    font-size: 22px;
+    font-weight: 400;
+    color: rgba(255,255,255,0.35);
+  }
+
+  .title {
+    font-size: 76px;
+    font-weight: 900;
+    color: #FFFFFF;
+    letter-spacing: -2.5px;
+    line-height: 1.03;
+    margin-top: 60px;
+    margin-bottom: 36px;
+  }
+
+  .subtitle {
+    font-size: 44px;
+    font-weight: 400;
+    color: rgba(255,255,255,0.6);
+    line-height: 1.47;
+    margin-bottom: 64px;
+  }
+
+  .cards {
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+    flex: 1;
+  }
+
+  .card {
+    border: 1.5px solid rgba(255,255,255,0.12);
+    border-radius: 16px;
+    padding: 36px 48px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .card-label {
+    font-size: 38px;
+    font-weight: 400;
+    color: rgba(255,255,255,0.6);
+    line-height: 1.2;
+  }
+
+  .card-value {
+    font-size: 52px;
+    font-weight: 900;
+    color: #FFFFFF;
+    letter-spacing: -1.5px;
+  }
+
+  .card-note {
+    font-size: 28px;
+    font-weight: 400;
+    color: rgba(255,255,255,0.35);
+    margin-top: 6px;
+  }
+
+  .card-left {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .footer-note {
+    font-size: 32px;
+    font-weight: 400;
+    color: rgba(255,255,255,0.35);
+    line-height: 1.45;
+    margin-top: 40px;
+  }
+
+  .watermark {
+    position: absolute;
+    bottom: 40px;
+    right: 72px;
+    font-size: 22px;
+    font-weight: 400;
+    color: rgba(255,255,255,0.25);
+  }
+</style>
+</head>
+<body>
+<div class="wrapper">
+<div class="slide">
+  <div class="slide-counter">2 / 6</div>
+
+  <div class="title">Down Payment</div>
+  <div class="subtitle">Первоначальный взнос — сумма из твоих средств. Остаток покрывает банк.</div>
+
+  <div class="cards">
+    <div class="card">
+      <div class="card-left">
+        <div class="card-label">FHA</div>
+        <div class="card-note">3.5% взнос</div>
+      </div>
+      <div class="card-value">$17,500</div>
+    </div>
+    <div class="card">
+      <div class="card-left">
+        <div class="card-label">Conventional</div>
+        <div class="card-note">10% взнос</div>
+      </div>
+      <div class="card-value">$50,000</div>
+    </div>
+    <div class="card">
+      <div class="card-left">
+        <div class="card-label">Conventional</div>
+        <div class="card-note">20% взнос</div>
+      </div>
+      <div class="card-value">$100,000</div>
+    </div>
+  </div>
+
+  <div class="footer-note">Чем меньше взнос — тем выше ежемесячный платёж</div>
+
+  <div class="watermark">raccoonpro.realestate</div>
+</div>
+</div>
+<script>
+  function scaleSlide() {
+    const wrapper = document.querySelector('.wrapper');
+    const scaleX = window.innerWidth / 1080;
+    const scaleY = window.innerHeight / 1350;
+    const scale = Math.min(scaleX, scaleY);
+    wrapper.style.transform = `scale(${scale})`;
+  }
+  scaleSlide();
+  window.addEventListener('resize', scaleSlide);
+</script>
+</body>
+</html>
