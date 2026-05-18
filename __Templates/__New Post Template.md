@@ -1,5 +1,5 @@
 ## New Post
-Template to use: [[Insert Template To Use]]
+Template to use: [[Real Estate/Карусели/Static Post Instructions|Static Post Instructions]]
 
 ### Main Page 
 *Title* - {Title of the Post}

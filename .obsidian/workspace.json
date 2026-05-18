@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "c21732b895920fda",
+        "id": "7389e26f2c896edd",
         "type": "tabs",
         "children": [
           {
-            "id": "4749cabe63f7134a",
+            "id": "aa24ae36d8e23b51",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Real Estate/Карусели/New Slides/Work in progress.md",
-                "mode": "source",
-                "source": false
+                "file": "Real Estate/Карусели/New Slides/Slide3.png"
               },
-              "icon": "lucide-file",
-              "title": "Work in progress"
+              "icon": "lucide-image",
+              "title": "Slide3"
             }
           }
         ]
@@ -154,13 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RacoonPro/Academy/Academy General Information.md",
+                "file": "Real Estate/Карусели/New Slides/Slide3.png",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Academy General Information"
+              "title": "Outline of Slide3"
             }
           },
           {
@@ -174,11 +172,12 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 484.5
+    "width": 358.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -193,29 +192,32 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "4749cabe63f7134a",
+  "active": "aa24ae36d8e23b51",
   "lastOpenFiles": [
-    "Real Estate/Карусели/Static Post Instructions.md",
-    "Real Estate/Main Page.md",
-    "Real Estate/Карусели/Широкая аудитория/Карусель 1 — Реальная сумма покупки.md",
+    "Real Estate/Карусели/New Slides/cover-house.jpg.png",
+    "Real Estate/Карусели/New Slides/Slide3.png",
+    "Real Estate/Карусели/New Slides/embed_img.ps1",
+    "Real Estate/Карусели/New Slides/slide3_cert.txt",
+    "Real Estate/Карусели/New Slides/slide3_b64.txt",
+    "Real Estate/Карусели/New Slides/preview.html.tmp.21100.de67536c8e02",
+    "Real Estate/Карусели/New Slides/preview.html.tmp.21100.a55c549cd565",
     "Real Estate/Карусели/New Slides/Work in progress.md",
+    "Real Estate/Карусели/New Slides/slide3.png",
+    "Real Estate/Карусели/New Slides/preview.html.tmp.21100.b6bb07f39673",
     "Insert Template To Use.md",
     "Real Estate/Карусели/Slide Post Template.md",
+    "Real Estate/Карусели/Static Post Instructions.md",
     "__Templates/__New Post Template.md",
-    "__Templates",
-    "Real Estate/Карусели/New Slides",
-    "Real Estate/Карусели/Примеры и стиль/Референсы — Обложки каруселей.md",
-    "Real Estate/Карусели/Примеры и стиль/Референсы Instagram.md",
     "Real Estate/Рилсы/Reel Instruction/Reels Instructions.md",
+    "Real Estate/Карусели/Примеры и стиль/Референсы — Обложки каруселей.md",
     "Real Estate/Рилсы/Reels ideas.md",
-    "Real Estate/Карусели/Широкая аудитория",
-    "Real Estate/Анализ конкурентов/Рилсы",
-    "Real Estate/Анализ конкурентов/Карусели",
-    "Real Estate/Анализ конкурентов",
-    "Real Estate/Рилсы/Reel Instruction",
-    "Real Estate/Карусели/Примеры и стиль/Референсы — Обложки каруселей.md.tmp.20040.c4e974e5d033",
-    "Real Estate/Аналитика",
-    "Real Estate/Идеи контента",
+    "Real Estate/Main Page.md",
+    "Real Estate/Карусели/Static Post Instructions.md.tmp.21100.5b0cda3d106f",
+    "Real Estate/Карусели/Static Post Instructions.md.tmp.22760.adbe32b4e103",
+    "Real Estate/Карусели/New Slides/preview.html.tmp.22760.6806875ff420",
+    "Real Estate/Карусели/Static Post Instructions.md.tmp.22760.d98385490b33",
+    "Real Estate/Карусели/Широкая аудитория/Карусель 1 — Реальная сумма покупки.md",
+    "Real Estate/Карусели/Примеры и стиль/Референсы Instagram.md",
     "RacoonPro/Real Estate Reels/Markdown Sample.md",
     "RacoonPro/Markdown Sample.md",
     "RacoonPro/Academy/Academy General Information.md",

@@ -1,7 +1,6 @@
 ## My Information
 
 ^6ad12b
-
 - *Name: Kiryl Kulakou* 
 - *Birthday: Feb, 8, 1992*
 - *Location: Philadelphia PA* - 
@@ -12,6 +11,7 @@
 - *My Website: https://realestate.raccoonpro.com/*
 - *Phone: 267 461 0765*
 - *Email: kk@MarketForceRealty.com*
+- @raccoonpro.realestatte
 ## Target of Project 
 *Need to promote Instagram/TikTok for new real-estate business*
 - create Instagram/TikTok,/YouTube shorts
