@@ -11,15 +11,28 @@
             "id": "aa24ae36d8e23b51",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Real Estate/Карусели/New Slides/Slide3.png"
+                "file": "Real Estate/Карусели/New Slides/Work in progress.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Slide3"
+              "icon": "lucide-file",
+              "title": "Work in progress"
+            }
+          },
+          {
+            "id": "4c3c9ad5ca4e1309",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -152,13 +165,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Real Estate/Карусели/New Slides/Slide3.png",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Slide3"
+              "title": "Outline"
             }
           },
           {
@@ -192,23 +204,23 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "aa24ae36d8e23b51",
+  "active": "4c3c9ad5ca4e1309",
   "lastOpenFiles": [
+    "Real Estate/Карусели/New Slides/Work in progress.md",
     "Real Estate/Карусели/New Slides/cover-house.jpg.png",
+    "Real Estate/Рилсы/Reel Instruction/Reels Instructions.md",
     "Real Estate/Карусели/New Slides/Slide3.png",
     "Real Estate/Карусели/New Slides/embed_img.ps1",
     "Real Estate/Карусели/New Slides/slide3_cert.txt",
     "Real Estate/Карусели/New Slides/slide3_b64.txt",
     "Real Estate/Карусели/New Slides/preview.html.tmp.21100.de67536c8e02",
     "Real Estate/Карусели/New Slides/preview.html.tmp.21100.a55c549cd565",
-    "Real Estate/Карусели/New Slides/Work in progress.md",
     "Real Estate/Карусели/New Slides/slide3.png",
     "Real Estate/Карусели/New Slides/preview.html.tmp.21100.b6bb07f39673",
     "Insert Template To Use.md",
     "Real Estate/Карусели/Slide Post Template.md",
     "Real Estate/Карусели/Static Post Instructions.md",
     "__Templates/__New Post Template.md",
-    "Real Estate/Рилсы/Reel Instruction/Reels Instructions.md",
     "Real Estate/Карусели/Примеры и стиль/Референсы — Обложки каруселей.md",
     "Real Estate/Рилсы/Reels ideas.md",
     "Real Estate/Main Page.md",
